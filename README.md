@@ -1,1 +1,2 @@
-# copier-basic-typescript
+# template-typescript
+
